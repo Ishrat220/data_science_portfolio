@@ -229,3 +229,5 @@
  * [11 Chapter 11 Personality Improvement](#11-chapter-11-personality-improvement)
    * [11.1 Personality improvements tricks on social media](#41-personality-improvement-on-social-accounttwitter)
    * [11.2 Tricks for interview and presentations](#11-for-interview-and-presentations)
+ * [12 Chapter 12 Model practice for FAO](#chapter-12-model-practice)
+   * [12.1- FAO data plotting](#121-fao-data-plotting)
